@@ -29,7 +29,7 @@ a1:visited {
   color: burlywood;
 }
 #space {
-  padding: 30px 5px 30px 5px;
+  padding: 50px 5px 50px 5px;
   color: rgba(240, 248, 255, 0);
 }
 .div1 {
@@ -106,7 +106,7 @@ a1:visited {
 }
 .title {
   display: flex;
-  background-color: rgb(53, 51, 51);
+  background-color: black;
   width: auto;
   margin: 0 auto;
   padding: 25px;
@@ -123,21 +123,29 @@ a1:visited {
   align-items: center;
 }
 .ti1 {
-  width: 150px;
+  width: auto;
   color: white;
+  font-size: 25px;
+  margin: auto;
 }
 .ti2 {
-  width: 200px;
+  width: auto;
   color: white;
+  font-size: 25px;
+  margin: auto;
 }
 .ti3 {
-  width: 150px;
+  width: auto;
   color: white;
+  font-size: 25px;
+  margin: auto;
 }
 .ti4 {
   width: 400px;
   color: white;
   font-size: 50px;
+  margin-left: auto;
+  margin-right:auto ;
 }
 .ti5 {
   width: 400px;
@@ -148,9 +156,25 @@ a1:visited {
   width: 400px;
   color: white;
   font-size: 50px;
+  margin-left: auto;
+  margin-right:auto ;
 }
 .p1 {
-  margin-right: auto;
+  margin-left: auto;
+  font-size: 50px;
+  color:white;
+  margin-right:auto ;
+}
+.p2{
+  margin-left:auto;
+  color: white;
+  padding:10px;
+  font-size: 30px;
+  width: auto;
+}
+.p3{
+  flex-basis: 100px;
+  margin-right: 0px;
 }
 .btn {
   color: blue;
