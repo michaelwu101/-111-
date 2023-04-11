@@ -16,6 +16,12 @@ ul.intro-list li li {
 a:visited {
   color: white;
 }
+.a{
+  color:white;
+}
+#a:hover{
+  color:blue;
+}
 .a1 {
   color: aliceblue;
 }
@@ -27,6 +33,13 @@ a1:visited {
   border: 10px double burlywood;
   margin: 10px;
   color: burlywood;
+}
+#haha2{
+  padding: 9px 5px 9px 5px;
+  border: 10px  burlywood;
+  margin: 10px;
+  color: burlywood;
+  font-size: 35px;
 }
 #space {
   padding: 50px 5px 50px 5px;
@@ -115,6 +128,7 @@ a1:visited {
 }
 .title1 {
   display: flex;
+  flex-basis:auto;
   background-color: burlywood;
   width: auto;
   margin: 0 auto;
