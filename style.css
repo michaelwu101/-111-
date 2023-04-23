@@ -198,3 +198,20 @@ a1:visited {
 .invisible {
   display: none;
 }
+.line{
+  font-size:50px;
+  color:darkgoldenrod;
+}
+.member{
+   margin-left: auto;
+  font-size: 50px;
+  color:white;
+  margin-right:auto ;
+  flex-grow:1;
+}
+.member2{
+  margin-left: auto;
+  font-size: 50px;
+  color:white;
+  margin-right:auto ;
+}
