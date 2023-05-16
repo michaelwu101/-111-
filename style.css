@@ -122,10 +122,12 @@ a:visited {
   flex-basis:auto;
   background-color: burlywood;
   width: auto;
-  margin: 0 auto;
+  margin: auto;
   padding: 25px;
   justify-content: flex-end;
   align-items: center;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 .ti1 {
   width: auto;
@@ -206,6 +208,7 @@ a:visited {
   color:white;
   margin-right:auto ;
   flex-grow:1;
+  margin-bottom: 10px;
 }
 .member2{
   margin-left: auto;
